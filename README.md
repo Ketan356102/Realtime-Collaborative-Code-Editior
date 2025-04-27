@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sync Code: Realtime Collaborative Code Editor
 
 ## Introduction
@@ -137,3 +138,6 @@ I am Mohd Mohitur Rahaman, a tech geek, currently pursuing a Master's in Compute
 
 - [LinkedIn](https://www.linkedin.com/in/mohitur02/)
 - [GitHub](https://www.github.com/Mohitur669/)
+=======
+# Realtime-Collaborative-Code-Editior
+>>>>>>> 817d182e9c411a58b41c5e8ce27e38a7ed2cfa40
